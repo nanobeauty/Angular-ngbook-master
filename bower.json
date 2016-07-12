@@ -1,0 +1,21 @@
+{
+  "name": "AngularPublishing",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "authors": [
+    "nanobeauty <nanobeauty@naver.com>"
+  ],
+  "license": "BSD",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "jquery": "^3.1.0"
+  }
+}
